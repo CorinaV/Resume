@@ -82,14 +82,14 @@ var work = {
     "dates": "2015-2016",
     "description": "In charge with my little agency."
   }, {
-    "employer": "LifeStore",
-    "title": "Manager",
-    "location": "Dublin, Ireland",
-    "dates": "2009-2013",
-    "description": "Making life work on a rainy weather."
+    "employer": "Inspira-t",
+    "title": "Design Thinking Researcher",
+    "location": "Barcelona, Spain",
+    "dates": "2015-2016",
+    "description": "User research with design thinking."
   }, {
     "employer": "Psychology Research",
-    "title": "Manager",
+    "title": "Researcher",
     "location": "Cluj-Napoca, Romania",
     "dates": "2009-2013",
     "description": "Research people, cognitions and behaviours."
